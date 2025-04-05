@@ -1,0 +1,4 @@
+pandas
+sqlalchemy
+schedule
+psycopg2-binary
